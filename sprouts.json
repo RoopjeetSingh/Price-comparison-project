@@ -1,0 +1,12 @@
+{
+    "Nature's Own Whole Wheat Bread": [
+        4.99,
+        "https://shop.sprouts.com/search?search_term=nature%27s%20own%20whole%20wheat%20bread&search_is_autocomplete=false",
+        "whole wheat bread.png"
+    ],
+    "Shemrock Whole Milk": [
+        4.29,
+        "https://shop.sprouts.com/search?search_term=milk&search_is_autocomplete=false",
+        "shemrock_milk.png"
+    ]
+}
